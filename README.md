@@ -21,5 +21,8 @@ npm run dev
 
 
 ## NOTE:<p>
-This is a coding challenge for a position @ Woovi, openly provided by the company, with no NDA and completely open-sourced
+This is a coding challenge for a position @ Woovi, openly provided by the company, <p>
+with no NDA and completely open-sourced<p>
+<p>
 I'm only uploading it as an addition to my GitHub portfolio.
+</p>
