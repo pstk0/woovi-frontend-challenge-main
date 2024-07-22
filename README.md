@@ -1,12 +1,11 @@
 # Woovi Frontend Challenge
 
-Projeto: Woovi Frontend Challenge.
+Project: Woovi Frontend Challenge for <a href="https://github.com/woovibr">Woovi</a>
 
-Tecnologias utilizadas: TypeScript, React, React Router, React Hook Form, MaterialUI, Context API, Eslint & Vite.
+Technologies used: TypeScript, React, React Router, React Hook Form, MaterialUI, Context API, Eslint & Vite.
 
 
-## Instalação e uso
-
+## Installation and usage
 ```bash
 git clone https://github.com/pstk0/woovi-frontend-challenge-main.git
 cd woovi-frontend-challenge-main
@@ -14,8 +13,13 @@ npm install --all
 npm run dev
 ```
 
-## Funcionalidades
-- Modal de confirmação
-- Tela para inserir valor
-- Timer de pagamento
-- Troca de idioma entre "pt_br" e "en_us"
+## Functionalities
+- Confirmation mode
+- Screen to enter value
+- Payment timer
+- Language change between "pt_br" and "en_us"
+
+
+## NOTE:<p>
+This is a coding challenge for a position @ Woovi, openly provided by the company, with no NDA and completely open-sourced
+I'm only uploading it as an addition to my GitHub portfolio.
